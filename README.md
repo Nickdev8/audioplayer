@@ -2,6 +2,12 @@
 
 Een eenvoudige muziekspeler, gebouwd met SvelteKit en TailwindCSS.
 
+
+## Live Demo
+
+Bekijk de live versie hier: [audio.nickesselman.nl](http://audio.nickesselman.nl/)
+
+
 ## Schermafbeelding
 
 ![Vervang dit met een screenshot van je applicatie](./screenshot.png)
@@ -29,9 +35,3 @@ Een eenvoudige muziekspeler, gebouwd met SvelteKit en TailwindCSS.
     npm run dev
     ```
 De applicatie draait nu op `http://localhost:5173`.
-
----
-
-## Live Demo
-
-Bekijk de live versie hier: [audio.nickesselman.nl](http://audio.nickesselman.nl/)
