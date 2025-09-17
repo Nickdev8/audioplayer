@@ -10,8 +10,7 @@ Bekijk de live versie hier: [audio.nickesselman.nl](http://audio.nickesselman.nl
 
 ## Schermafbeelding
 
-![Vervang dit met een screenshot van je applicatie](./screenshot.png)
-*Tip: Voeg een screenshot-bestand (bijv. `screenshot.png`) toe aan de hoofdmap en de afbeelding zal hier verschijnen.*
+<img width="2624" height="1860" alt="screenshot" src="https://github.com/user-attachments/assets/5880c10f-a7c3-4315-82ac-133f175fb92a" />
 
 ---
 
