@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "audioplayer",
+      "script": "./.svelte-kit/output/server/index.js",
+      "interpreter": "node",
+      "env": {
+        "PORT": 3003,
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
