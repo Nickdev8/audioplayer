@@ -89,7 +89,7 @@
 
 <div class="container mx-auto p-2 flex flex-col h-full">
 	<div class="flex justify-between items-center mb-4 flex-shrink-0">
-		<h1 class="text-2xl font-bold text-blue-400">My Awesome Music Collection (Beta!)</h1>
+		<h1 class="text-2xl font-bold text-blue-400">My SUPER AWSOME Music Collection</h1>
 		<div class="flex items-center space-x-2">
 			<button
 				on:click={() => (view = view === 'grid' ? 'list' : 'grid')}
